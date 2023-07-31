@@ -7,7 +7,7 @@ lds": [
      "routes": [
          {
              "src": "/(.*)",
-             "dest": "api/api.py"
+             "dest": "/"
          }
      ]
  }
